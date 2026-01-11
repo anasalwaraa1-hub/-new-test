@@ -1,0 +1,22 @@
+
+.container{
+   
+    margin: 200PX;
+    background-color:brown ;
+    display: flex;
+    justify-content: center;
+}
+.container img {
+     width: 200px;
+    height: 200px;
+}
+
+
+
+
+
+
+
+.text{
+    text-align: center;
+}
